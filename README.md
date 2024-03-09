@@ -1,4 +1,4 @@
 # sadio
-for trying
+for trying...
 
 ## notes
